@@ -29,5 +29,6 @@ Objetivo: revisar requisitos y código antes de ejecutarlo. Marcar cada punto S�
 20. ¿La matriz conecta requisito, riesgo, propuesta y artefacto verificable?
 
 ## Resultado
-Revisor: por completar con una persona real. Fecha: por completar.
-Observaciones y decisiones: registrar en el acta de revisión, sin atribuir comentarios a participantes que no los hayan realizado.
+Inspección individual realizada el 13 de noviembre de 2026. Se registraron ocho hallazgos en `revision-individual.md`: tres de estilo corregidos tras ESLint y cinco reglas de negocio pendientes de confirmación.
+
+Decisiones: corregir únicamente los patrones de estilo reportados por ESLint. Mantener pendientes los temas de porcentajes fuera de rango, beneficio VIP, entradas inválidas, redondeo y forma de informar errores hasta contar con reglas aprobadas. No participó un revisor externo.
